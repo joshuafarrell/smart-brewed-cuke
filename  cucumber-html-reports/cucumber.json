@@ -1,0 +1,498 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "# Created by jfarrell at 4/28/16"
+      }
+    ],
+    "line": 3,
+    "elements": [
+      {
+        "line": 8,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I am a campaign manager",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I provide my contact information",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "name": "150,000+ Campaign Budget",
+        "description": "",
+        "id": ";150,000+-campaign-budget;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "my budget is \"More than 150K\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "my target KPI is \"Product Trial / Evaluation\"",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "my vertical category is \"Food\"",
+            "match": {},
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "I request campaign recommendations",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 17,
+            "name": "I receive a recommendation for \"Brand Builder\" program with options:",
+            "match": {},
+            "rows": [
+              {
+                "cells": [
+                  "option"
+                ],
+                "line": 18
+              },
+              {
+                "cells": [
+                  "Spotlight Video"
+                ],
+                "line": 19
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 20,
+            "name": "I receive a recommendation for \"Experts Among Us Recipe\" program",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 21,
+            "name": "I receive a recommendation for \"Pinterest Board\" program",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I am a campaign manager",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I provide my contact information",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "name": "150,000+ Campaign Budget",
+        "description": "",
+        "id": ";150,000+-campaign-budget;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "my budget is \"More than 150K\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "my target KPI is \"Purchase\"",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "my vertical category is \"Entertaining\"",
+            "match": {},
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "I request campaign recommendations",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 17,
+            "name": "I receive a recommendation for \"Brand Builder\" program with options:",
+            "match": {},
+            "rows": [
+              {
+                "cells": [
+                  "option"
+                ],
+                "line": 18
+              },
+              {
+                "cells": [
+                  "Spotlight Video"
+                ],
+                "line": 19
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 20,
+            "name": "I receive a recommendation for \"Experts Among Us Recipe\" program",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 21,
+            "name": "I receive a recommendation for \"Pinterest Board\" program",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I am a campaign manager",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I provide my contact information",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 27,
+        "name": "150,000+ Campaign Budget",
+        "description": "",
+        "id": ";150,000+-campaign-budget;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "my budget is \"More than 150K\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "my target KPI is \"Product Trial / Evaluation\"",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "my vertical category is \"Entertaining\"",
+            "match": {},
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "I request campaign recommendations",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 17,
+            "name": "I receive a recommendation for \"Brand Builder\" program with options:",
+            "match": {},
+            "rows": [
+              {
+                "cells": [
+                  "option"
+                ],
+                "line": 18
+              },
+              {
+                "cells": [
+                  "Spotlight Video"
+                ],
+                "line": 19
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 20,
+            "name": "I receive a recommendation for \"Experts Among Us Recipe\" program",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 21,
+            "name": "I receive a recommendation for \"Pinterest Board\" program",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I am a campaign manager",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I provide my contact information",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 28,
+        "name": "150,000+ Campaign Budget",
+        "description": "",
+        "id": ";150,000+-campaign-budget;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "my budget is \"More than 150K\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "my target KPI is \"Purchase\"",
+            "match": {},
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "my vertical category is \"Food\"",
+            "match": {},
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "I request campaign recommendations",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 17,
+            "name": "I receive a recommendation for \"Brand Builder\" program with options:",
+            "match": {},
+            "rows": [
+              {
+                "cells": [
+                  "option"
+                ],
+                "line": 18
+              },
+              {
+                "cells": [
+                  "Spotlight Video"
+                ],
+                "line": 19
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 20,
+            "name": "I receive a recommendation for \"Experts Among Us Recipe\" program",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 21,
+            "name": "I receive a recommendation for \"Pinterest Board\" program",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "",
+    "description": "In order to bring awareness about a food or entertainment service / product\nAs a campaign manager\nI want to get recommendations on the best way to inform an audience about my service / product",
+    "id": "",
+    "keyword": "Feature",
+    "uri": "KpiCampaignRecommendations.feature"
+  }
+]
