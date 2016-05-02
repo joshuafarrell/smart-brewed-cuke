@@ -1,5 +1,3 @@
-# Created by jfarrell at 4/28/16
-
 Feature:
   In order to bring awareness about a food or entertainment service / product
   As a campaign manager
