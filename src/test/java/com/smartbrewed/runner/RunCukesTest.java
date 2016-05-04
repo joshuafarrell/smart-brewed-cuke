@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         format = { "pretty","html: cucumber-html-reports",
                 "json: cucumber-html-reports/cucumber.json" },
         dryRun = false,
-        glue = "fr.tlasnier.cucumber" )
+        glue = "com.smartbrewed" )
 public class RunCukesTest {
     // A runner for cuke feature tests
 }
