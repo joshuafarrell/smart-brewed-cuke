@@ -6,7 +6,6 @@ Feature:
   Background:
     Given I am a campaign manager
     And I provide my contact information
-
   Scenario Outline: 150,000+ Campaign Budget
     Given my budget is "More than 150K"
     And my target KPI is "<kpi>"
